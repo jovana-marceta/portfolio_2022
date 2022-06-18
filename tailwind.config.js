@@ -3,6 +3,10 @@ module.exports = {
   content: [ "./src/**/*.{js,jsx,ts,tsx}",],
   theme: {
     extend: {},
+    backgroundImage: {
+      'hero-cover': "url('../public/cover7.jpg')",
+      'cover': 'cover'
+    },
   },
   plugins: [],
 }
