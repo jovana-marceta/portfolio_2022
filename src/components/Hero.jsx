@@ -1,5 +1,4 @@
 import React from 'react'
-// import HeroImage from '../assets/heroImg.png'
 import { HiArrowNarrowRight } from 'react-icons/hi';
 
 const Hero = () => {
