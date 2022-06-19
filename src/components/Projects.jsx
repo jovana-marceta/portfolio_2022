@@ -8,7 +8,7 @@ import Project6 from '../assets/mona.png'
 
 const Projects = () => {
   return (
-    <div name='skills' className='w-full h-full bg-violet-600 text-white'>
+    <div name='projects' className='w-full h-full bg-violet-600 text-white'>
     <div className='max-w-[1240px] mx-auto p-4 flex flex-col justify-center w-full'>
         <div>
             <p className='text-4xl font-bold inline border-b-4 border-fuchsia-500'>Projects</p>
@@ -26,10 +26,10 @@ const Projects = () => {
                         CodeTonix
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="/">
+                        <a href="https://competent-wright-bea617.netlify.app" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/jovana-marceta/CodeTonix" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -43,10 +43,10 @@ const Projects = () => {
                        Bernhardt
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="/">
+                        <a href="https://compassionate-shirley-b1e466.netlify.app" target='_blank'>
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/jovana-marceta/Bernhard" target='_blank'>
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -60,10 +60,10 @@ const Projects = () => {
                         Lingua Language School
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="/">
+                        <a href="https://musing-ramanujan-7fb55c.netlify.app" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/jovana-marceta/Lingua" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -77,10 +77,10 @@ const Projects = () => {
                         Minisoft
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="/">
+                        <a href="https://naughty-meitner-6af5a9.netlify.app" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/jovana-marceta/Minisoft" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -94,10 +94,10 @@ const Projects = () => {
                         Perfect Match
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="/">
+                        <a href="https://stupefied-dijkstra-260c16.netlify.app" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/jovana-marceta/PerfectMatch" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
@@ -111,10 +111,10 @@ const Projects = () => {
                         Mona
                     </span>
                     <div className='pt-8 text-center'>
-                        <a href="/">
+                        <a href="https://nostalgic-darwin-2dff49.netlify.app" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/jovana-marceta/Mona" target="_blank">
                             <button className='text-center px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                     </div>
