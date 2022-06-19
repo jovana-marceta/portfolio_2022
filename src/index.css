@@ -15,14 +15,25 @@
     }
 }
 
+.content-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+
+.content-div:hover {
+    background-image: linear-gradient(to right top, #8b5cf6, #a058f6, #b453f4, #c74df2, #d946ef) !important;
+}
+
+
+/* Scrollbar */
 ::-webkit-scrollbar {
 	width: 10px;
 }
-
 ::-webkit-scrollbar-track {
 	background: rgb(217 70 239);
 }
-
 ::-webkit-scrollbar-thumb {
 	background: #fff;
 }

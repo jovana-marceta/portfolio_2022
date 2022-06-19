@@ -9,8 +9,8 @@ import Tailwind from '../assets/tailwind.png'
 
 const Skills = () => {
   return (
-    <div name='skills' className='bg-violet-600 text-white'>
-        <div className='max-w-[1240px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+    <div name='skills' className='w-full h-full bg-violet-600 text-white'>
+        <div className='max-w-[1240px] mx-auto p-4 flex flex-col justify-center w-full'>
             <div>
                 <p className='text-4xl font-bold inline border-b-4 border-fuchsia-500'>Skills</p>
                 <p className='py-4'>Below is a list of my skills. I am trying to stay up with the newest trends in the industry and to keep learning and becoming a better version of myself. When we improve our lives, we can improve others too. I am always willing to learn new things and cooperate with other enthusiastic individuals.</p>
