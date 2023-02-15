@@ -24,7 +24,7 @@ const About = () => {
             <div className='max-w-[1240px] w-full px-4 grid sm:grid-cols-2 gap-8  mb-10'>
                 <div>
                     <div className='border-b-4 border-fuchsia-500 mb-4'>
-                        <h3 className='text-2xl font-bold flex items-center justify-start gap-x-[10px]'> <MdBusinessCenter className='inline'/> UX/UI Web Designer &#38; Frontend Developer</h3>
+                        <h3 className='text-2xl font-bold flex items-center justify-start gap-x-[10px]'> <MdBusinessCenter className='inline'/> Frontend Developer</h3>
                         <h4 className='text-2xl text-fuchsia-500 font-bold mb-[10px]'>Adacta: dec 2021 - present</h4>
                     </div>
                     <ul>
