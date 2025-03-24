@@ -5,7 +5,7 @@ This project represents my journey as a frontend developer and showcases the ski
 
 ## 🖼️ Preview
 
-### [Portfolio link](<[https://angular-medical-dashboard.netlify.app/](https://jmarcetadev.netlify.app/)>)
+### [Portfolio link](https://jmarcetadev.netlify.app/)
 
 ![Portfolio Overview](src/assets/dekstop-screenshot.png)
 
@@ -25,3 +25,17 @@ This project represents my journey as a frontend developer and showcases the ski
 - **Custom UI components** – Clean, consistent visual elements
 - **Project highlight section** – Easily extendable
 - **Minimal & elegant layout** – Focused on readability and UX
+
+## 🚀 Getting Started
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Development Server
+
+```bash
+npm run start
+```
